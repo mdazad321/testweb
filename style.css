@@ -1,0 +1,17 @@
+body{background-color: #ddd}
+img{width:50px}
+footer{text-align: center; padding: 2px; background-color: #333;color:white;padding-left: 10px;font-size: 12px}
+hr{border:2px solid #837e7e;margin-top: 0;margin-bottom: 0px}
+footer a{color: #ddd;transition-duration: 1s}
+.copya:hover{color: orange;text-decoration: none;text-transform: uppercase}
+.headerContent{font-family: 'Roboto', sans-serif;text-align: center;padding: 10px;color: #333;cursor: pointer;transition-duration: 1s}
+.headerContent:hover{color: orangered}
+.liia:hover{text-transform: uppercase;color: rgb(255, 74, 7)}
+.liia{transition-duration: 0.5s;text-transform: uppercase}
+.socialM i{font-size: 20px; padding: 5px;color:#bababa;transition-duration: 0.7s}
+.socialM i:hover{color: orangered;transform: scale(1.1)}
+.mainDiv{}
+.sliderM{padding: 50px}
+p{margin-bottom: 0px}
+.icc{padding: 8px;font-size: 15px;padding-top: -30px}
+.socialMe{text-align: center}
